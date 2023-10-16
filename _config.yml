@@ -1,0 +1,16 @@
+# Site settings
+name: Jeremiah Volkmer
+email: jvolkmer32@gmail.com
+url: url
+description: "A blog and a portfolio"
+author: "author"
+title: "BlogFolio"
+permalink: pretty
+baseurl: /
+
+# social
+github:
+  username: username
+
+twitter:
+  username: username
